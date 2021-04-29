@@ -1,0 +1,21 @@
+html {
+    padding: 0;
+    margin: 0;
+    background-color: teal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.App {
+    margin-top: 50%;
+    width: 300px;
+    
+    text-align: center;
+    background-color: #3e606f;
+    padding: 50px;
+  }
+  .inputs {
+    background-color: #b8dff0;
+    
+  }
+  
